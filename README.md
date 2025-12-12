@@ -1,16 +1,33 @@
-## Hi there 👋
+## ¡Hola! Soy Juan Camilo  
 
-<!--
-**camiloo2525/camiloo2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero Informático 
 
-Here are some ideas to get you started:
+Soy un apasionado por la tecnología, el desarrollo web y la inteligencia artificial . Aquí encontrarás mis proyectos, cosas que estoy aprendiendo y todo mi camino como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí  
+- 🎯 Me gusta aprender nuevas tecnologías y aplicarlas en proyectos reales.  
+- 💡 Interesado en desarrollo web, bases de datos y automatización.  
+- 🤝 Me encantaría colaborar en proyectos open source o trabajos en equipo.
+
+---
+
+## 🛠️ Tecnologías y herramientas  
+**Lenguajes:**  
+- PHP (Laravel)
+- Python (Flask , Django)
+- Go (Gin)
+
+**Herramientas:**  
+- Git & GitHub  
+- Visual Studio Code  
+- Windows / Linux
+
+---
+
+## 📫 Cómo contactarme  
+- ✉️ Email: juancamilosalazarhernandez25@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-camilo-salazar-hernández2525/  
+
+---
