@@ -31,4 +31,4 @@ Machine learning, deep learning and neural networks, as part of the Especializac
 
 ## Contact
 
-[LinkedIn] https://www.linkedin.com/in/juan-camilo-salazar-hernández2525/
+[LinkedIn](https://www.linkedin.com/in/juan-camilo-salazar-hernández2525/)
